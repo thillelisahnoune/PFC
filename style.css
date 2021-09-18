@@ -1,0 +1,12 @@
+body{
+    padding-top: 10px;
+}
+/*crochetts on les faits pour les ttributs*/
+[class*="col-"]{
+    background-color: silver;
+    border: 3px solid black;
+    border-radius: 6px;
+    line-height: 40px;
+    text-align: center;
+
+}
